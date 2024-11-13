@@ -15,7 +15,7 @@ include ('../navbar.php');
         <div class="col-6 m-auto">
         <div class="card">
   <div class="card-header text-center">
-   <h3>Sdata jurusan</h3> 
+   <h3>data jurusan</h3> 
   </div>
   <div class="card-body text-center">
     <h2>hallo,selamat datang</h2>
