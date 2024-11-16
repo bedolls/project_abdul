@@ -32,13 +32,49 @@ include ('../navbar.php');
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
+      <td>SK</td>
+      <td>SEKRETARIS</td>
       <td>
       <a class="btn btn-success" href=""><i class="fa-solid fa-pen-to-square"></i></a>
       <a class="btn btn-danger" href=""><i class="fa-solid fa-trash"></i></a>
       </td>
     </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>IK</td>
+      <td>IN</td>
+      <td>
+      <a class="btn btn-success" href=""><i class="fa-solid fa-pen-to-square"></i></a>
+      <a class="btn btn-danger" href=""><i class="fa-solid fa-trash"></i></a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>OM</td>
+      <td>OFFICE MANAJEMEN</td>
+      <td>
+      <a class="btn btn-success" href=""><i class="fa-solid fa-pen-to-square"></i></a>
+      <a class="btn btn-danger" href=""><i class="fa-solid fa-trash"></i></a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>KA</td>
+      <td>KOMPUTER AKUNTANSI</td>
+      <td>
+      <a class="btn btn-success" href=""><i class="fa-solid fa-pen-to-square"></i></a>
+      <a class="btn btn-danger" href=""><i class="fa-solid fa-trash"></i></a>
+      </td>
+  </tr>
+  <tr>
+      <th scope="row">5</th>
+      <td>DBC</td>
+      <td>DIGITAL BISNIS COMUNICATION</td>
+      <td>
+      <a class="btn btn-success" href=""><i class="fa-solid fa-pen-to-square"></i></a>
+      <a class="btn btn-danger" href=""><i class="fa-solid fa-trash"></i></a>
+      </td>
+  </tr>
   </tbody>
 </table>
 </div>
